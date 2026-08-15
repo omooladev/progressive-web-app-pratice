@@ -1,0 +1,15 @@
+{
+  "name": "Progressive web application",
+  "short_name": "PWA",
+  "description": "Progressive web application practice",
+  "display": "standalone",
+  "start_url": "/dashboard",
+  "id": "/",
+  "background_color": "white",
+  "theme_color": "red",
+  "icons": [
+    { "src": "/icons/icon-512x512.png", "sizes": "512x512", "purpose": "any", "type": "image/png" },
+    { "src": "/icons/icon-192x192.png", "sizes": "192x192", "purpose": "any", "type": "image/png" },
+    { "src": "/icons/maskable_icon-512x512.png", "sizes": "512x512", "purpose": "maskable", "type": "image/png" }
+  ]
+}
